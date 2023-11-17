@@ -193,4 +193,4 @@ As soon as everyone had finished their work, new messages from an anonymous pers
 
 > Thank you. I see you all did well. That's great, even though the algorithms predicted it from the beginning. Please set up a secure connection to the server specified in the following message and connect to the specified chat room. There we will be able to talk freely and calmly. I also have some special information for Thomas and John regarding your friend, Seb. I will expect you in the chat room!
 
-💡 [Tap here](https://forms.yandex.ru/cloud/6418259f73cee70c7447898c/) **to leave your feedback on the project**. Pedago Team really tries to make your educational experience better.
+💡 [Tap here](https://forms.yandex.ru/cloud/6418259f73cee70c7447898c/) **to leave your feedback on the project**. Product Team really tries to make your educational experience better.
