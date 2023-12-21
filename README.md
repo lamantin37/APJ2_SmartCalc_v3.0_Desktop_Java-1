@@ -27,7 +27,7 @@ Chuck was running late, so he was in a hurry and couldn't sit still. Only the oc
 
 `-` “Could you go any faster, I'm in a hurry,“ Chuck said harshly.
 
-`-` “Young man, I'm going the maximum speed allowed here, and I'm not going to break the rules for no reason. Calm down, we're almost there. And you could have left the house earlier...“ Chuck skipped further lectures and switched back to his phone. Time was running out. \
+`-` “Young man, I'm going the maximum speed allowed here, and I'm not going to break the rules for no reason. Calm down, we're almost there. And you could have left the house earlier...“ Chuck skipped further lectures and switched back to his phone. Time was running out. 
 
 Buildings, palm trees, and people with dogs flew by the window. California is usually hot this time of year, so many people were sunbathing on their lawns. But Chuck wasn't really interested in that; he glanced from time to time at the map and at the time on his phone, checking how much longer he had left to go. He didn't fly halfway across the country for sun, beach, and relaxation. His mission was to find answers to his questions, and some anonymous person had kindly agreed to provide them. Yes, the text message from him wasn't very informative: just an address, a time, and promises of answers, but Chuck felt that he was sure to get help here. He got as close to the truth as he could.
 The cab pulled up to a small square with three people standing there. Chuck's mind was spinning, "I hope I'm not too late, I hope I'm not too late. He shot out of the cab, dropping his bag on the ground. The driver shouted something to him, but at that moment another familiar voice caught Chuck's attention:
