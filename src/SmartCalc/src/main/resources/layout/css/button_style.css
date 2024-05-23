@@ -1,0 +1,21 @@
+.button, .menu-button {
+    -fx-background-color: linear-gradient(#e0e0e0, #b0b0b0),
+                          linear-gradient(#d0d0d0, #c0c0c0),
+                          linear-gradient(#fafafa, #c0c0c0),
+                          linear-gradient(#cccccc, #b0b0b0);
+    -fx-background-insets: 0,1,2,3;
+    -fx-background-radius: 3,2,1,0;
+    -fx-text-fill: #333;
+    -fx-font-size: 14px;
+    -fx-font-weight: bold;
+    -fx-effect: dropshadow(three-pass-box, rgba(0,0,0,0.6), 5, 0, 0, 1);
+    -fx-border-color: #b3b3b3;
+    -fx-border-width: 1;
+    -fx-border-radius: 3,2,1,0;
+
+    -fx-pref-width: 172px;
+    -fx-pref-height: 26px;
+
+    -fx-padding: 0;
+    -fx-margin: 0;
+}

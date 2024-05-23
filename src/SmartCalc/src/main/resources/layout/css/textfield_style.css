@@ -1,0 +1,20 @@
+.text-field {
+    -fx-background-color: #ffffff,
+        linear-gradient(#f2f2f2 0%, #d9d9d9 100%);
+    -fx-background-insets: 0, 0 0 1 0;
+    -fx-background-radius: 5, 4;
+    -fx-padding: 3px;
+    -fx-border-color: #b3b3b3;
+    -fx-border-width: 1;
+    -fx-border-radius: 5;
+    -fx-effect: dropshadow(three-pass-box, rgba(0, 0, 0, 0.2), -2, -2, 0, 0);
+}
+
+.text-field:focused {
+    -fx-border-color: #4d90fe;
+    -fx-border-width: 1;
+    -fx-border-radius: 5;
+    -fx-background-color: #ffffff,
+        linear-gradient(#f2f2f2 0%, #d9d9d9 100%);
+    -fx-background-insets: -0.2, 1, 2;
+}

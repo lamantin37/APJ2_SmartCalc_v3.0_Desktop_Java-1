@@ -9,8 +9,7 @@ public class Program {
 
     public static void main(String[] args) {
         ApplicationContext context = new AnnotationConfigApplicationContext("edu.school21.calc");
-        CalcPresenterImpl calcPresenter = context.getBean("CalcPresenter", CalcPresenterImpl.class);
-        ViewJavaFXControllerImpl javaFXController = new ViewJavaFXControllerImpl();
+        ViewJavaFXControllerImpl javaFXController = context.getBean("CalcJavaFXView", ViewJavaFXControllerImpl.class);
         javaFXController.startJavaFX(args);
     }
 

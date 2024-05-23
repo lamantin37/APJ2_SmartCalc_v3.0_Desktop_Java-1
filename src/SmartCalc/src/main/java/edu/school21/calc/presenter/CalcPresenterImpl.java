@@ -1,6 +1,7 @@
 package edu.school21.calc.presenter;
 
 import edu.school21.calc.exceptions.CalculatorException;
+import edu.school21.calc.logging.LoggerController;
 import edu.school21.calc.model.CalcLibImpl;
 import edu.school21.calc.model.CalcModelImpl;
 import lombok.NoArgsConstructor;
@@ -15,7 +16,9 @@ public class CalcPresenterImpl{
 
     @Autowired
     public CalcPresenterImpl(@Qualifier("CalcModel") CalcModelImpl calcModel) {
+        LoggerController.info("Creating presenter...");
         CalcPresenterImpl.calcModel = calcModel;
+        LoggerController.info("Created!");
     }
 
     public static double evalWithExprAndValue(String message, double value) throws CalculatorException {
